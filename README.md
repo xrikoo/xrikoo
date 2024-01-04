@@ -1,1 +1,1 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xrikoo.xrikoo" />
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=xrikoo.xrikoo)
