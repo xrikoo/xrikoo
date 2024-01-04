@@ -7,3 +7,6 @@
 </h1>
 
 <h3 align="center"I'm an indie full-stack developer building my verision of the digital world one step at a time.</h3>
+
+<br/>
+
